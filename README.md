@@ -1,16 +1,25 @@
-## Hi there 👋
+Olá! Eu sou o Arthur 👋
 
-<!--
-**ARTHURR1898/ARTHURR1898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente cursando o 4º semestre de Ciência da Computação (UCB), sou um desenvolvedor em formação com foco em Programacao Backend e Cibersegurança.
 
-Here are some ideas to get you started:
+🛠️ Stack Tecnológica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Linguagens Base: Java, Python, JavaScript, SQL
+
+    Frameworks & Bibliotecas: Node.js, React
+
+    Ferramentas: Git, GitHub
+
+🔭 Foco Atual
+
+    Atualmente estudando: Fundamentos de Cibersegurança e Infraestrutura em Nuvem com AWS.
+    
+    Consolidando conhecimentos em desenvolvimento de APIs estruturadas e modelagem de banco de dados.
+
+    Transformando a teoria acadêmica de algoritmos e estruturas de dados em projetos práticos e aplicações funcionais.
+
+📫 Vamos Conversar?
+
+    LinkedIn: https://www.linkedin.com/in/arthur-ramalho-12467a35a/
+
+    E-mail: arthur.ramalho1234@gmail.com
