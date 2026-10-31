@@ -20,6 +20,6 @@ Atualmente cursando o 4º semestre de Ciência da Computação (UCB), sou um des
 
 📫 Vamos Conversar?
 
-    LinkedIn: https://www.linkedin.com/in/arthur-ramalho-12467a35a/
+    LinkedIn: https://linkedin.com/in/arthur-ramalho-dev/
 
     E-mail: arthur.ramalho1234@gmail.com
